@@ -16,7 +16,6 @@ navbar:
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
       href: http://github.com/leilaaayan/
-
 output:
   html_document:
     theme: readable

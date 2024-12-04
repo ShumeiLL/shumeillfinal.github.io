@@ -8,4 +8,4 @@ output:
 
 # home page
 
-# <img src="images/xxx.jpeg" style="width:75%">
+home page, information ....
